@@ -1,0 +1,11 @@
+{
+  "template": "detailed",
+  "blacklist": [
+    "б/у",
+    "дефект",
+    "брак",
+    "поврежден",
+    "царапин"
+  ],
+  "hashtags_enabled": true
+}

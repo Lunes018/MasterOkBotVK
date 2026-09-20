@@ -1,0 +1,12 @@
+{
+  "morning_top": {
+    "enabled": false,
+    "time": "09:00",
+    "last_run": null
+  },
+  "daily_report": {
+    "enabled": false,
+    "time": "20:00",
+    "last_run": null
+  }
+}
